@@ -1,0 +1,17 @@
+{
+  "extends": ["airbnb-base", "plugin:jest/recommended"],
+  "globals": {
+    "include": "readonly",
+    "_": "readonly"
+  },
+  "plugins": ["jest"],
+  "rules": {
+    "no-plusplus": [
+      "error",
+      {
+        "allowForLoopAfterthoughts": true
+      }
+    ],
+    "max-classes-per-file": "off"
+  }
+}
