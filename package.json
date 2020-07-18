@@ -28,7 +28,7 @@
     "@keystone-alpha/build-field-types": "^1.0.5",
     "@keystone-alpha/fields": "^12.0.0",
     "google-map-react": "^1.1.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongoose": "^5.7.9",
     "react": "^16.8.6",
     "typescript": "^3.7.2"
